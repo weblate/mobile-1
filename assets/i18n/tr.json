@@ -34,7 +34,7 @@
   "gallery": "Galeri",
   "general": "Genel",
   "info": "Bilgi",
-  "invalid_amount": "Minimum miktar {{amount}}.",
+  "invalid_amount": "Geçersiz miktar",
   "kc": "Kingdom Kredisi",
   "language": "Dil",
   "languages": {
